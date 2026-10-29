@@ -68,7 +68,7 @@
         "description": "Classic Malaysian frothy iced milk tea",
         "price": 2.5,
         "category": "Drinks",
-        "available": true
+        "available": false
       }
     ]
   },
